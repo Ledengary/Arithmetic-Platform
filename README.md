@@ -1,6 +1,6 @@
 # dkn
 The Second project of the "Data Structures" course \
-In this project, first I stepped through building up Data Structures such as Linked List, Queue and Stack. Then by implementing Expression tree and it algorithms, I made a platform in which by entering commands, the related actions will be taken. \
+In this project, first I stepped through building up Data Structures such as Linked List, Queue and Stack. Then by implementing Expression tree and its algorithms, I made a platform in which by entering commands, the related actions will be taken. \
 These commands are all predefined by certain rules.
 
 1) #define __variable name or function name__ = __arithmetic expression__ \

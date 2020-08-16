@@ -17,4 +17,5 @@ This can be used to print both arithmetic expressions and variables and function
 
 More Examples:
 
-![Example](https://user-images.githubusercontent.com/60043933/90341245-3bc52e00-e013-11ea-9b16-13de38b28ec8.JPG)
+![Example](https://user-images.githubusercontent.com/60043933/90341282-8ba3f500-e013-11ea-8b8d-cbba53325163.JPG)
+![Example](https://user-images.githubusercontent.com/60043933/90341294-a5ddd300-e013-11ea-91a2-05497593881b.JPG)
